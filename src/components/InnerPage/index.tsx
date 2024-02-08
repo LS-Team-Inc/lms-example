@@ -1,10 +1,11 @@
-import Header from "./Header";
-import Footer from "./Footer";
+"use client";
 import { FC, ReactNode, useContext, useEffect, useState } from "react";
-import SignUpModal from "./SignUpModal";
-import SignInModal from "./SignInModal";
 import { AuthContext } from "@/context/authContext";
 import { isLoggedIn } from "@/context/authAction";
+import SignUpModal from "./SignUpModal";
+import SignInModal from "./SignInModal";
+import Header from "./Header";
+import Footer from "./Footer";
 
 interface IProps {
   children: ReactNode;
