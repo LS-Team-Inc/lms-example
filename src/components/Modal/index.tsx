@@ -1,5 +1,3 @@
-"use client";
-
 import { Dialog, Transition } from "@headlessui/react";
 import Image from "next/image";
 import { FC, Fragment, ReactNode } from "react";

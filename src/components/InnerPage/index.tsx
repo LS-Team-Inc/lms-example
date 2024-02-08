@@ -1,5 +1,3 @@
-"use client";
-
 import Header from "./Header";
 import Footer from "./Footer";
 import { FC, ReactNode, useContext, useEffect, useState } from "react";
