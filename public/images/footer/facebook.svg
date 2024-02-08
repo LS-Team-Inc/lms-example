@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="14px" viewBox="0 0 7 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path@2x</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-997.000000, -3277.000000)" fill="#377EF7" fill-rule="nonzero" id="Group-22">
+            <g transform="translate(0.000000, 3186.000000)">
+                <path d="M998.75,95.6666667 L997,95.6666667 L997,98 L998.75,98 L998.75,105 L1001.66667,105 L1001.66667,98 L1003.79117,98 L1004,95.6666667 L1001.66667,95.6666667 L1001.66667,94.69425 C1001.66667,94.1371667 1001.77867,93.9166667 1002.31708,93.9166667 L1004,93.9166667 L1004,91 L1001.77867,91 C999.681,91 998.75,91.9234167 998.75,93.6920833 L998.75,95.6666667 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
